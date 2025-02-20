@@ -4,9 +4,9 @@
 This project provides an in-depth analysis of global sales data from 2012 to 2015 using Power BI. The dashboard offers key insights into sales performance, profitability, shipping trends, and product performance. It helps identify high and low-performing segments, visualize sales trends over time, and analyze key performance metrics to support data-driven decision-making.
 
 ## Files in the Repository
-- **Amazon-Dataset(AutoRecovered).xlsx**: This Excel file contains the raw sales data used for analysis. Although the data was already clean, various operations were performed in Excel before importing it into Power BI to enhance usability.
+- **Amazon-Dataset(AutoRecovered).xlsx**: This Excel file contains the raw sales data used for analysis. Although the data was already clean, various operations were performed in Excel before importing it into Power BI to enhance usability. The original dataset is from here: https://github.com/DishaK06/Amazon-Global-Sales
 - **Global Sales Insight (2012-2015).pbix**: This is the Power BI report file that contains all the visualizations, transformations, DAX functions and analytical insights.
-
+- **Theme.json**: This is the theme which i used in my dashboard which i downloaded from here : https://community.fabric.microsoft.com/t5/Themes-Gallery/Sales-Report/td-p/4398953
 ## Data Preparation
 While the dataset was already clean, the following operations were performed in Excel before importing it into Power BI:
 - **Pivot Tables and Charts**: Used to summarize and analyze key sales trends before importing into Power BI.
