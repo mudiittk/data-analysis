@@ -114,11 +114,6 @@ Profit Margin = SUM(Orders[Profit])/SUM(Orders[Sales])
 Previous year sales = CALCULATE([Total Sales], SAMEPERIODLASTYEAR('Orders'[Order Date]))
 ```
 
-### **Total Sales Calculation**
-```DAX
-Total Sales = SUM(Orders[Sales])
-```
-
 ### **Sales Color (Conditional Formatting for highlighting months with the highest/lowest total sales)**
 ```DAX
 Sales Color = 
