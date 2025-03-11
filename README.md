@@ -2,9 +2,9 @@
 
 ## Overview
 This project provides an in-depth analysis of global sales data from 2012 to 2015 using Power BI. The dashboard offers key insights into sales performance, profitability, shipping trends, and product performance. It helps identify high and low-performing segments, visualize sales trends over time, and analyze key performance metrics to support data-driven decision-making.
-![Screenshot 2025-02-23 153734](https://github.com/user-attachments/assets/a1be9f58-7b79-4735-9dd1-064e8564cc8a)
 
-![Screenshot 2025-02-23 153754](https://github.com/user-attachments/assets/2886760a-16a8-4aeb-9daf-21152b9fd91e)
+<img src="https://github.com/user-attachments/assets/a1be9f58-7b79-4735-9dd1-064e8564cc8a" alt="Description" width="500" height="300">
+<img src="https://github.com/user-attachments/assets/2886760a-16a8-4aeb-9daf-21152b9fd91e" alt="Description" width="500" height="300">
 
 
 ## Files in the Repository
